@@ -1,2 +1,5 @@
 # Abstract
 
+This research will focus on the work of the typesetter, particularly in the field of setting of body type. By examining the various practical elements of his work a set of conventions will be drawn and compared to current trends in the setting of body text on digital devices using cascading style sheets. The secondary information will be broken down to physical and digital, which later follow to primary research activities in form of contextual inquiries (Holtzblatt, et al., 2005) as well as grounded theory (Strauss and Corbin, 1994) method and historical analysis (Phifer, 1961).
+
+The work focuses on current tools and publicly available information about work in progress in terms of the CSS3 and HTML5, however generally sticking to practical aspects of digital design for the internet. The research found that there is a significant gap in the typography discipline between the print medium and the digital one. That said, new technologies are set to promote more correct setting of type digitally in terms of vertical rhythm and visual consistency.
