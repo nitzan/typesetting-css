@@ -7,5 +7,4 @@
    * [Paragraph](paragraph.md)
    * [Pancutation](pancutation.md)
    * [Visual Order](visual_order.md)
-   * Intial Caps
 
