@@ -5,5 +5,5 @@
 * [Metal Typesetting](metal_typesetting.md)
    * Paragraph
    * Visual Order
-   * Pancutation
+   * [Pancutation](pancutation.md)
 
