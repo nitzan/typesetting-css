@@ -15,4 +15,5 @@
    * [Special Characters](special_characters.md)
    * [Mechanisms of Reading](mechanisms_of_reading.md)
    * [Leading](leading.md)
+   * Dash
 
