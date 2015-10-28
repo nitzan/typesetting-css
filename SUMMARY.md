@@ -8,5 +8,4 @@
    * [Visual Order](visual_order.md)
    * Intial Caps
 * [Intro](intro.md)
-* Metal Typesetting
 
