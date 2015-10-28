@@ -1,4 +1,7 @@
 Typesetting CSS
 =======
 
-What can we learn from 
+The first decades following the introduction of movable type in Europe at the middle of the 15th century saw printers facing problems in translating manuscripts into textual representation using metal blocks. The rapid growth of printed materials and the introduction of more complex texts required printers to develop ways in which information can be more clearly represented. This led to the column-based layout, and in essence, the first grid. The grid has developed to be the most basic canvas on which designers (as well as architects, city planner, artists, etc) work and conduct their practice.
+In the subject of setting copy, or body text, e.g. book and editorial design, the baseline-grid is the core structure that text should conform to. The vertical rhythm of the lines is one of the most prominent elements of the grid, and is easily transferable (even partially) to typesetting for screens.
+The work of the typesetter, especially in the years proceeding the introduction of more affordable printing is well documented and offers a very useful set of rules.
+It wasn't until the widespread development of letterpress that the need to standardize the setting of type into a set of rules and conventions was created and typography and design movements in Europe and America obliged.
