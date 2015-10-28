@@ -14,5 +14,5 @@
    * [Letter Spacing](letter_spacing.md)
    * [Special Characters](special_characters.md)
    * [Mechanisms of Reading](mechanisms_of_reading.md)
-   * Leading
+   * [Leading](leading.md)
 
