@@ -1,2 +1,3 @@
 # Spacing
 
+According to [Jahn](http://books.ioba.org/books/601832328.html) (1931, p.136) Spacing and justification are the two most important factors when setting type. It is advisable to insist on close spacing even in the price of breaking a word in the end of the line. Much of the common mistakes of spacing are a direct result of too large of type, without the appropriate amendments to the spacing. Every size of type has recommended spacing, which will ensure both pleasant typography as well as maximum legibility.
