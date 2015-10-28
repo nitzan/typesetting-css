@@ -11,5 +11,5 @@
    * [Orphans and Widows](orphans_and_widows.md)
    * [Spacing](spacing.md)
    * [Word Spacing](word_spacing.md)
-   * Letter Spacing
+   * [Letter Spacing](letter_spacing.md)
 
