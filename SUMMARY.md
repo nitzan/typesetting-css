@@ -2,7 +2,6 @@
 
 * [Introduction](README.md)
 * [Abstract](abstract.md)
-* [Intro](intro.md)
 * [Metal Typesetting](metal_typesetting.md)
    * [Paragraph](paragraph.md)
    * [Pancutation](pancutation.md)
