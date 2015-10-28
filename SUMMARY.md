@@ -13,5 +13,5 @@
    * [Word Spacing](word_spacing.md)
    * [Letter Spacing](letter_spacing.md)
    * [Special Characters](special_characters.md)
-   * Mechanisms of Reading
+   * [Mechanisms of Reading](mechanisms_of_reading.md)
 
