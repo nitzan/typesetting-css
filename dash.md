@@ -1,2 +1,3 @@
 # Dash
 
+According to [Tschichold](http://www.abebooks.de/servlet/SearchResults?isbn=0853316236&diurl=http://www.abebooks.de/servlet/SearchResults?isbn=0853316236&afn_sr=AFFDE&cm_ven=am&cm_ite=affde&affmt=2&affmn=19) (1991, p.132) a dash is often used to indicate a small break, possibly a pause for reflection. The widely used em dash is a simple one em width horizontal line. It is suggested to decrease the word spacing before and after the dash to correct the visual pleasance of the text.
