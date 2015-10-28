@@ -6,5 +6,4 @@
    * Paragraph
    * Visual Order
    * Pancutation
-       * Visual Order
 
