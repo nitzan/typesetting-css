@@ -18,5 +18,6 @@
 * [Digital](digital.md)
    * CSS V 1, 2 and 3
    * The Reset
-   * Current Stage, Frameworks 
+   * Current Stage, Frameworks
+   * Setting for Multiple Screen Sizes 
 
