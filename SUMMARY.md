@@ -15,5 +15,5 @@
    * [Mechanisms of Reading](mechanisms_of_reading.md)
    * [Leading](leading.md)
    * [Dash](dash.md)
-* Digital
+* [Digital](digital.md)
 
