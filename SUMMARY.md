@@ -17,4 +17,5 @@
    * [Dash](dash.md)
 * [Digital](digital.md)
    * CSS V 1, 2 and 3
+   * The Reset
 
