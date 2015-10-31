@@ -1,4 +1,4 @@
-# Pancutation
+# Punctuation
 
 The use of punctuation should be kept to a minimum and only be applied when it contributes to the understanding of the text.
 
